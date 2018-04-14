@@ -1,0 +1,13 @@
+{
+    "name": "Medical-Notes-API",
+    "version":"0.0.1",
+    "description":"API for helping Doctors for registring medical notes",
+    "author":"Jesús Guzmán Vitte",
+    "preferGlobal": "true",
+    "main": "serverAppMN.js",
+    "dependencies": {
+        "express": "^4.10.6",
+        "mysql": "^2.5.4",
+        "body-parser": "^1.0.1"
+    }
+}
